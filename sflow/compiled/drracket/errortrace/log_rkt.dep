@@ -1,0 +1,1 @@
+("6.5" ("5d65a7076017f18b8cddc2a356492629516ec59c" . "e51715cd54aa884fe43c3a08ec0ef805d2a0906a") #"/Users/odie/Project/scheme-tensorflow/sflow/variable.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
